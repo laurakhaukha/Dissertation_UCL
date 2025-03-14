@@ -64,3 +64,4 @@ This should give us a message saying "1 passed in 0.02s" which lets us know the 
 2. Enter git commit -m "I am adding this because ....."  - To commit changes
 3. Enter git add   - To make the changes visible on github 
 4. To view whether your changes have been register enter: git status
+5. git push origin main : to add the changes on github
