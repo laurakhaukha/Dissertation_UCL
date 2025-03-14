@@ -47,3 +47,7 @@ test = ["pytest"]
 [tool.setuptools.dynamic]
 # Where the dynamic metadata is described
 dependencies = {file = ["requirements.txt"]}
+
+[tool.setuptools]
+
+packages = ['sampleproject']
