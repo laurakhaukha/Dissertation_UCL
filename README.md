@@ -58,4 +58,9 @@ This should give us a message saying "1 passed in 0.02s" which lets us know the 
 3. Working locally, take regular snapshots of your progress using `git add` and `git commit -m` and update GitHub using `git push`.
 3. When you are finished with a new feature, make sure your tests run `python3 -m pytest .`, this is a great time to ask for feedback if you'd have that option and would like to, then you can merge your changes into `main`. 
 
+## LAURA's Practice: Making Your code visible in github  
 
+1. Make changes within a desired file 
+2. Enter git commit -m "I am adding this because ....."  - To commit changes
+3. Enter git add   - To make the changes visible on github 
+4. To view whether your changes have been register enter: git status
